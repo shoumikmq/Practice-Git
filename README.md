@@ -1,4 +1,4 @@
-# HI
+# This is just my portfolio
 Hello
 <br>
 I am Shoumik Ghosh
